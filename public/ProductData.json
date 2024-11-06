@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "product_title": "UltraFast Laptop",
+    "product_image": "assets/1.jpg",
+    "category": "computers",
+    "price": 799,
+    "description": "A powerful laptop with blazing-fast processing speeds, perfect for multitasking.",
+    "Specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "Intel i7 Processor",
+      "15.6-inch Full HD display",
+      "8-hour battery life"
+    ],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "product_title": "Slimline Laptop",
+    "product_image": "assets/10.jpg",
+    "category": "computers",
+    "price": 950,
+    "description": "A sleek, lightweight laptop with an all-day battery life, perfect for on-the-go productivity.",
+    "Specification": [
+      "8GB RAM",
+      "256GB SSD",
+      "Intel i5 Processor",
+      "14-inch Full HD display",
+      "10-hour battery life"
+    ],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "product_title": "LaptopMate Pro",
+    "product_image": "assets/16.jpg",
+    "category": "computers",
+    "price": 1050,
+    "description": "A high-performance laptop with a stunning 4K display for professional use.",
+    "Specification": [
+      "32GB RAM",
+      "1TB SSD",
+      "Intel i9 Processor",
+      "17-inch 4K display",
+      "12-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "product_title": "Budget-Friendly Laptop",
+    "product_image": "assets/17.jpg",
+    "category": "computers",
+    "price": 499,
+    "description": "An affordable laptop with essential features for everyday tasks.",
+    "Specification": [
+      "4GB RAM",
+      "128GB SSD",
+      "Intel i3 Processor",
+      "15-inch HD display",
+      "6-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "product_title": "Gamer's Choice Laptop",
+    "product_image": "assets/18.jpg",
+    "category": "computers",
+    "price": 1200,
+    "description": "A high-end gaming laptop with powerful graphics and cooling system.",
+    "Specification": [
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA GTX 1660",
+      "15.6-inch Full HD display",
+      "RGB backlit keyboard"
+    ],
+    "availability": true,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "product_title": "Student Laptop",
+    "product_image": "assets/19.jpg",
+    "category": "computers",
+    "price": 550,
+    "description": "An ideal laptop for students with long battery life and lightweight design.",
+    "Specification": [
+      "8GB RAM",
+      "256GB SSD",
+      "Intel i5 Processor",
+      "14-inch HD display",
+      "12-hour battery life"
+    ],
+    "availability": false,
+    "rating": 3
+  },
+  {
+    "id": 7,
+    "product_title": "Smartphone Pro X",
+    "product_image": "assets/2.jpg",
+    "category": "phones",
+    "price": 649,
+    "description": "A flagship smartphone with a stunning display and cutting-edge features.",
+    "Specification": [
+      "6.7-inch OLED display",
+      "128GB storage",
+      "Triple-lens camera",
+      "Face ID",
+      "5G enabled"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "product_title": "Elite Pro Smartphone",
+    "product_image": "assets/8.jpg",
+    "category": "phones",
+    "price": 720,
+    "description": "A high-end smartphone with an exceptional camera and smooth user experience.",
+    "Specification": [
+      "5G connectivity",
+      "256GB storage",
+      "48MP camera",
+      "6.1-inch Super AMOLED display",
+      "Wireless charging"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "product_title": "PowerMax Charger",
+    "product_image": "assets/3.jpg",
+    "category": "chargers",
+    "price": 59,
+    "description": "A high-speed charger compatible with all devices, ensuring quick power-ups.",
+    "Specification": [
+      "USB-C and USB-A ports",
+      "Fast charge technology",
+      "Compact design",
+      "Over-voltage protection",
+      "1.5m cable included"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "product_title": "Compact Travel Charger",
+    "product_image": "assets/7.jpg",
+    "category": "chargers",
+    "price": 60,
+    "description": "A compact, lightweight travel charger with universal compatibility.",
+    "Specification": [
+      "Foldable plug",
+      "Fast charging",
+      "Overcharge protection",
+      "Universal voltage 100-240V",
+      "2 USB ports"
+    ],
+    "availability": false,
+    "rating": 4
+  },
+  {
+    "id": 11,
+    "product_title": "Home Office Laptop",
+    "product_image": "assets/16.jpg",
+    "category": "computers",
+    "price": 680,
+    "description": "A reliable laptop for remote work with an ergonomic design and robust performance.",
+    "Specification": [
+      "8GB RAM",
+      "512GB SSD",
+      "Intel i5 Processor",
+      "15-inch HD display",
+      "8-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 12,
+    "product_title": "MaxPower Power Bank",
+    "product_image": "assets/12.jpg",
+    "category": "power banks",
+    "price": 95,
+    "description": "A high-capacity power bank with multiple ports, perfect for extended usage.",
+    "Specification": [
+      "20000mAh capacity",
+      "Triple output ports",
+      "LED flashlight",
+      "Quick charge compatible",
+      "Anti-slip design"
+    ],
+    "availability": false,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "product_title": "PowerBoost Power Bank",
+    "product_image": "assets/5.jpg",
+    "category": "power banks",
+    "price": 85,
+    "description": "A portable power bank with enough capacity to charge your phone multiple times.",
+    "Specification": [
+      "10000mAh capacity",
+      "Dual output ports",
+      "LED battery indicator",
+      "Quick charge compatible",
+      "Slim design"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "product_title": "Pocket Charger Plus",
+    "product_image": "assets/11.jpg",
+    "category": "chargers",
+    "price": 65,
+    "description": "A small but powerful charger designed to provide quick boosts of power on the go.",
+    "Specification": [
+      "LED charge indicator",
+      "Fast charging",
+      "Overload protection",
+      "Compact size",
+      "Durable outer casing"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "id": 15,
+    "product_title": "Student Power Bank",
+    "product_image": "assets/22.jpg",
+    "category": "power banks",
+    "price": 50,
+    "description": "An affordable power bank with enough capacity for a days worth of charging.",
+    "Specification": [
+      "5000mAh capacity",
+      "Single output port",
+      "LED charge indicator",
+      "Compact size",
+      "Lightweight"
+    ],
+    "availability": true,
+    "rating": 4
+  }
+]
